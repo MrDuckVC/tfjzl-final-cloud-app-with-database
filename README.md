@@ -19,7 +19,8 @@ This project is the culmination of a comprehensive 11-course program by IBM Skil
 * **User Authentication:** Registration, login, and logout functionality.
 * **Course Catalog:** View available courses sorted by popularity and explore course materials (lessons).
 * **Enrollment System:** Users can enroll in specific courses.
-* **Examination Module:** * Take an exam upon course completion.
+* **Examination Module:**
+  * Take an exam upon course completion.
   * Automated grading system (strict scoring: points for a question are awarded only if the selected choices match the correct answers 100%).
   * Instant score calculation and result display.
 * **Admin Panel:** Content management (courses, lessons, questions, and choices) via the built-in Django admin interface.
